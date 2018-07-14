@@ -2,7 +2,7 @@ import autograd
 from autograd import numpy as np
 import autograd.numpy.random as npr
 from autograd import grad
-from autograd.misc.optimizers import adam
+
 
 def vocab_build(corpus):
     '''
